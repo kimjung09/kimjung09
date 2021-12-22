@@ -8,25 +8,28 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=#1572B6"/>&nbsp 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=red"/>&nbsp 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/>&nbsp 
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=red"/>&nbsp
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=green"/>&nbsp 
 <img src="https://img.shields.io/badge/styled-components-pink?style=flat-square&logo=styled-components&logoColor=pink"/>&nbsp   
-<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=#DD0031"/>&nbsp                                                                                                                 
                                                                                                                       
 </p>
 <p align="center">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=#DD0031"/>&nbsp                                                         
 <img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=styled-components&logoColor=#CC6699"/>&nbsp   
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=fff"/>&nbsp 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=fff"/>&nbsp                                       
 <img src="https://img.shields.io/badge/TypeScript-8fceff?style=flat-square&logo=TypeScript&logoColor=#8fceff"/>&nbsp
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=#764ABC"/>&nbsp 
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=fff"/>&nbsp 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=red"/>&nbsp 
-<img src="https://img.shields.io/badge/The Movie Database-e6ffef?style=flat-square&logo=The Movie Database&logoColor=#c4ffda"/>&nbsp 
-                                                      
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=red"/>                                                                 
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/The Movie Database-e6ffef?style=flat-square&logo=The Movie Database&logoColor=#c4ffda"/>&nbsp                                   
 <img src="https://img.shields.io/badge/GraphQL-f0cfff?style=flat-square&logo=GraphQL&logoColor=#E434AA"/>&nbsp    
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=000"/>&nbsp     
+<img src="https://img.shields.io/badge/Webstorm-000?style=flat-square&logo=Webstorm&logoColor=#fff"/>&nbsp
+                                                                                                   
+                                                                                                     
 </p>
                                                                                
                                                                                                        
